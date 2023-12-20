@@ -1,4 +1,4 @@
-# luci-app-mosdns
+# luci-app-mosdns v4 v5
 
 [MosDNS](https://github.com/IrineSistiana/mosdns) is a plug-in DNS forwarder. Users can splicing plug-ins as needed to customize their own DNS processing logic.
 
